@@ -221,10 +221,15 @@ margin-bottom: 44px;
   .img .clr{
     color: #001931;
   }
+  #new{
+    max-width: 1600px;
+  }
   #new .new-contain{
     max-width: 1360px;
     width: 85%;
-    background-color: antiquewhite;
+    background-color: rgb(217, 214, 211);
+    border-radius: 10px;
+    margin: 0px auto;
    
   }
   .new-contain .omg{
