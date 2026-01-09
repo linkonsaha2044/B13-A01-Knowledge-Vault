@@ -166,3 +166,48 @@ margin-bottom: 44px;
     line-height: 20px;
     color: #627382;
 }
+#skill .skill-contain{
+  max-width: 1360px;
+  padding: 120px;
+  display: flex;
+  gap: 60px;
+ 
+}
+.skill-contain .heading{
+    max-width: 770px;
+}
+.skill-contain .heading h5{
+  color: #30B868;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 102px;
+  margin-bottom: 16px;
+  font-weight: 500px;
+}
+ .heading h2{
+    
+
+    margin-bottom: 16px;
+    margin-right: 120px;
+    justify-content: center;
+    align-items: center;
+   color: #001931;
+ }
+ .heading p{
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+ }
+ .heading .img{
+    max-width: 770px;
+   display: flex;
+    gap: 6px;
+    align-items: flex-start;
+
+ }
+  .img p{
+    font-size: 16px;
+    line-height: 20px;
+  }
